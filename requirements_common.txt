@@ -1,0 +1,4 @@
+Flask==2.0.1
+Werkzeug==2.0.1
+ezviz-0.1.5.5
+fake_useragent-1.4.0

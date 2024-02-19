@@ -1,0 +1,5 @@
+pywin32~=305
+ezviz-0.1.5.5
+fake_useragent-1.4.0
+py-ezviz 0.1.7.4
+ezviz 0.1.5.5
